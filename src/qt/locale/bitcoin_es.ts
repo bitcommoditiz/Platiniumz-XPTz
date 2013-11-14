@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About XAUz</source>
-        <translation>Acerca de XAUz</translation>
+        <source>About XPTz</source>
+        <translation>Acerca de XPTz</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;XAUz&lt;/b&gt; version</source>
-        <translation>Versión de &lt;b&gt;XAUz&lt;/b&gt;</translation>
+        <source>&lt;b&gt;XPTz&lt;/b&gt; version</source>
+        <translation>Versión de &lt;b&gt;XPTz&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,8 +37,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+0"/>
-        <source>The XAUz developers</source>
-        <translation>Los programadores XAUz</translation>
+        <source>The XPTz developers</source>
+        <translation>Los programadores XPTz</translation>
     </message>
 </context>
 <context>
@@ -70,8 +70,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your XAUz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son sus direcciones XAUz para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
+        <source>These are your XPTz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son sus direcciones XPTz para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,8 +85,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a XAUz address</source>
-        <translation>Firmar un mensaje para demostrar que se posee una dirección XAUz</translation>
+        <source>Sign a message to prove you own a XPTz address</source>
+        <translation>Firmar un mensaje para demostrar que se posee una dirección XPTz</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -110,8 +110,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified XAUz address</source>
-        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección XAUz indicada</translation>
+        <source>Verify a message to ensure it was signed with a specified XPTz address</source>
+        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección XPTz indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -125,8 +125,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your XAUz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones XAUz para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
+        <source>These are your XPTz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones XPTz para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-56"/>
-        <source>XAUz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XAUzs from being stolen by malware infecting your computer.</source>
-        <translation>XAUz se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus XAUzs de robo por malware que infecte su sistema.</translation>
+        <source>XPTz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XPTzs from being stolen by malware infecting your computer.</source>
+        <translation>XPTz se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus XPTzs de robo por malware que infecte su sistema.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about XAUz</source>
-        <translation>Mostrar información acerca de XAUz</translation>
+        <source>Show information about XPTz</source>
+        <translation>Mostrar información acerca de XPTz</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a XAUz address</source>
-        <translation>Enviar monedas a una dirección XAUz</translation>
+        <source>Send coins to a XPTz address</source>
+        <translation>Enviar monedas a una dirección XPTz</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for XAUz</source>
-        <translation>Modificar las opciones de configuración de XAUz</translation>
+        <source>Modify configuration options for XPTz</source>
+        <translation>Modificar las opciones de configuración de XPTz</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +458,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>XAUz</source>
-        <translation>XAUz</translation>
+        <source>XPTz</source>
+        <translation>XPTz</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +483,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About XAUz</source>
-        <translation>&amp;Acerca de XAUz</translation>
+        <source>&amp;About XPTz</source>
+        <translation>&amp;Acerca de XPTz</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,13 +503,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your XAUz addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones XAUz para demostrar la propiedad</translation>
+        <source>Sign messages with your XPTz addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones XPTz para demostrar la propiedad</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified XAUz addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones XAUz concretas</translation>
+        <source>Verify messages to ensure they were signed with specified XPTz addresses</source>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones XPTz concretas</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -539,13 +539,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+47"/>
-        <source>XAUz client</source>
-        <translation>Cliente XAUz</translation>
+        <source>XPTz client</source>
+        <translation>Cliente XPTz</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to XAUz network</source>
-        <translation><numerusform>%n conexión activa hacia la red XAUz</numerusform><numerusform>%n conexiones activas hacia la red XAUz</numerusform></translation>
+        <source>%n active connection(s) to XPTz network</source>
+        <translation><numerusform>%n conexión activa hacia la red XPTz</numerusform><numerusform>%n conexiones activas hacia la red XPTz</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -659,8 +659,8 @@ Dirección: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid XAUz address or malformed URI parameters.</source>
-        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección XAUz inválida o a parámetros de URI mal formados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XPTz address or malformed URI parameters.</source>
+        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección XPTz inválida o a parámetros de URI mal formados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -674,8 +674,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. XAUz can no longer continue safely and will quit.</source>
-        <translation>Ha ocurrido un error crítico. XAUz ya no puede continuar con seguridad y se cerrará.</translation>
+        <source>A fatal error occurred. XPTz can no longer continue safely and will quit.</source>
+        <translation>Ha ocurrido un error crítico. XPTz ya no puede continuar con seguridad y se cerrará.</translation>
     </message>
 </context>
 <context>
@@ -740,8 +740,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid XAUz address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección XAUz válida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XPTz address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección XPTz válida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -759,8 +759,8 @@ Dirección: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>XAUz-Qt</source>
-        <translation>XAUz-Qt</translation>
+        <source>XPTz-Qt</source>
+        <translation>XPTz-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -822,13 +822,13 @@ Dirección: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start XAUz after logging in to the system.</source>
-        <translation>Iniciar XAUz automáticamente al encender el sistema.</translation>
+        <source>Automatically start XPTz after logging in to the system.</source>
+        <translation>Iniciar XPTz automáticamente al encender el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start XAUz on system login</source>
-        <translation>&amp;Iniciar XAUz al iniciar el sistema</translation>
+        <source>&amp;Start XPTz on system login</source>
+        <translation>&amp;Iniciar XPTz al iniciar el sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -847,8 +847,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the XAUz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente XAUz en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <source>Automatically open the XPTz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente XPTz en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -857,8 +857,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the XAUz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar a la red XAUz a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
+        <source>Connect to the XPTz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conectar a la red XPTz a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -932,8 +932,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting XAUz.</source>
-        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie XAUz.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XPTz.</source>
+        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie XPTz.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -947,8 +947,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show XAUz addresses in the transaction list or not.</source>
-        <translation>Mostrar o no las direcciones XAUz en la lista de transacciones.</translation>
+        <source>Whether to show XPTz addresses in the transaction list or not.</source>
+        <translation>Mostrar o no las direcciones XPTz en la lista de transacciones.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -999,8 +999,8 @@ Dirección: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting XAUz.</source>
-        <translation>Esta configuración tendrá efecto tras reiniciar XAUz.</translation>
+        <source>This setting will take effect after restarting XPTz.</source>
+        <translation>Esta configuración tendrá efecto tras reiniciar XPTz.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1018,8 +1018,8 @@ Dirección: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XAUz network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red XAUz después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XPTz network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red XPTz después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1072,8 +1072,8 @@ Dirección: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start XAUz: click-to-pay handler</source>
-        <translation>No se pudo iniciar XAUz: manejador de pago-al-clic</translation>
+        <source>Cannot start XPTz: click-to-pay handler</source>
+        <translation>No se pudo iniciar XPTz: manejador de pago-al-clic</translation>
     </message>
 </context>
 <context>
@@ -1222,8 +1222,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the XAUz-Qt help message to get a list with possible XAUz command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de XAUz-Qt que enumera las opciones disponibles de línea de órdenes para XAUz.</translation>
+        <source>Show the XPTz-Qt help message to get a list with possible XPTz command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de XPTz-Qt que enumera las opciones disponibles de línea de órdenes para XPTz.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1242,13 +1242,13 @@ Dirección: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>XAUz - Debug window</source>
-        <translation>XAUz - Ventana de depuración</translation>
+        <source>XPTz - Debug window</source>
+        <translation>XPTz - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>XAUz Core</source>
-        <translation>Núcleo de XAUz</translation>
+        <source>XPTz Core</source>
+        <translation>Núcleo de XPTz</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1257,7 +1257,7 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the XAUz debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the XPTz debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abrir el archivo de registro de depuración en el directorio actual de datos. Esto puede llevar varios segundos para archivos de registro grandes.</translation>
     </message>
     <message>
@@ -1267,8 +1267,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the XAUz RPC console.</source>
-        <translation>Bienvenido a la consola RPC de XAUz</translation>
+        <source>Welcome to the XPTz RPC console.</source>
+        <translation>Bienvenido a la consola RPC de XPTz</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1451,8 +1451,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a XAUz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduzca una dirección XAUz (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XPTz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección XPTz (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1516,8 +1516,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this XAUz address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección XAUz</translation>
+        <source>Sign the message to prove you own this XPTz address</source>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección XPTz</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1552,8 +1552,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified XAUz address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección XAUz indicada</translation>
+        <source>Verify the message to ensure it was signed with the specified XPTz address</source>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección XPTz indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,8 +1568,8 @@ Dirección: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a XAUz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduzca una dirección XAUz (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XPTz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección XPTz (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1578,8 +1578,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter XAUz signature</source>
-        <translation>Introduzca una firma XAUz</translation>
+        <source>Enter XPTz signature</source>
+        <translation>Introduzca una firma XPTz</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1652,8 +1652,8 @@ Dirección: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The XAUz developers</source>
-        <translation>Los programadores XAUz</translation>
+        <source>The XPTz developers</source>
+        <translation>Los programadores XPTz</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2190,8 +2190,8 @@ Dirección: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>XAUz version</source>
-        <translation>Versión de XAUz</translation>
+        <source>XPTz version</source>
+        <translation>Versión de XPTz</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2200,8 +2200,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or XAUzd</source>
-        <translation>Envíar comando a -server o XAUzd</translation>
+        <source>Send command to -server or XPTzd</source>
+        <translation>Envíar comando a -server o XPTzd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2223,14 +2223,14 @@ Dirección: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: XAUz.conf)</source>
-        <translation>Especificar archivo de configuración (predeterminado: XAUz.conf)
+        <source>Specify configuration file (default: XPTz.conf)</source>
+        <translation>Especificar archivo de configuración (predeterminado: XPTz.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: XAUzd.pid)</source>
-        <translation>Especificar archivo pid (predeterminado: XAUz.pid)
+        <source>Specify pid file (default: XPTzd.pid)</source>
+        <translation>Especificar archivo pid (predeterminado: XPTz.pid)
 </translation>
     </message>
     <message>
@@ -2311,24 +2311,24 @@ Dirección: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=XAUzrpc
+rpcuser=XPTzrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XPTz Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un valor rpcpassword en el archivo de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=XAUzrpc
+rpcuser=XPTzrpc
 rpcpassword=%s
 (no es necesario recordar esta contraseña)
 El nombre de usuario y la contraseña DEBEN NO ser iguales.
 Si el archivo no existe, créelo con permisos de archivo de solo lectura.
 Se recomienda también establecer alertnotify para recibir notificaciones de problemas.
-Por ejemplo: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
+Por ejemplo: alertnotify=echo %%s | mail -s &quot;XPTz Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2343,8 +2343,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. XAUz is probably already running.</source>
-        <translation>No se puede bloquear el directorio de datos %s. Probablemente XAUz ya se está ejecutando.</translation>
+        <source>Cannot obtain a lock on data directory %s. XPTz is probably already running.</source>
+        <translation>No se puede bloquear el directorio de datos %s. Probablemente XPTz ya se está ejecutando.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2388,8 +2388,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XAUz will not work properly.</source>
-        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, XAUz no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XPTz will not work properly.</source>
+        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, XPTz no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2638,8 +2638,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the XAUz Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la XAUz Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the XPTz Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la XPTz Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2838,13 +2838,13 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of XAUz</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de XAUz</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XPTz</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de XPTz</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart XAUz to complete</source>
-        <translation>El monedero ha necesitado ser reescrito. Reinicie XAUz para completar el proceso</translation>
+        <source>Wallet needed to be rewritten: restart XPTz to complete</source>
+        <translation>El monedero ha necesitado ser reescrito. Reinicie XPTz para completar el proceso</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2903,8 +2903,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. XAUz is probably already running.</source>
-        <translation>No es posible conectar con %s en este sistema. Probablemente XAUz ya está ejecutándose.</translation>
+        <source>Unable to bind to %s on this computer. XPTz is probably already running.</source>
+        <translation>No es posible conectar con %s en este sistema. Probablemente XPTz ya está ejecutándose.</translation>
     </message>
     <message>
         <location line="+64"/>

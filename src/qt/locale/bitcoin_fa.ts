@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About XAUz</source>
-        <translation>در مورد XAUz</translation>
+        <source>About XPTz</source>
+        <translation>در مورد XPTz</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;XAUz&lt;/b&gt; version</source>
-        <translation>نسخه XAUz</translation>
+        <source>&lt;b&gt;XPTz&lt;/b&gt; version</source>
+        <translation>نسخه XPTz</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The XAUz developers</source>
+        <source>The XPTz developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your XAUz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>این آدرسها، آدرسهای XAUz شما برای دریافت وجوه هستند. شما ممکن است آدرسهای متفاوت را به هر گیرنده اختصاص دهید که بتوانید مواردی که پرداخت می کنید را پیگیری نمایید</translation>
+        <source>These are your XPTz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>این آدرسها، آدرسهای XPTz شما برای دریافت وجوه هستند. شما ممکن است آدرسهای متفاوت را به هر گیرنده اختصاص دهید که بتوانید مواردی که پرداخت می کنید را پیگیری نمایید</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a XAUz address</source>
-        <translation>پیام را برای اثبات آدرس XAUz خود امضا کنید</translation>
+        <source>Sign a message to prove you own a XPTz address</source>
+        <translation>پیام را برای اثبات آدرس XPTz خود امضا کنید</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified XAUz address</source>
-        <translation>یک پیام را برای حصول اطمینان از ورود به سیستم با آدرس XAUz مشخص، شناسایی کنید</translation>
+        <source>Verify a message to ensure it was signed with a specified XPTz address</source>
+        <translation>یک پیام را برای حصول اطمینان از ورود به سیستم با آدرس XPTz مشخص، شناسایی کنید</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your XAUz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your XPTz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -245,7 +245,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>هشدار: اگر wallet رمزگذاری شود و شما passphrase را گم کنید شما همه اطلاعات XAUz را از دست خواهید داد.</translation>
+        <translation>هشدار: اگر wallet رمزگذاری شود و شما passphrase را گم کنید شما همه اطلاعات XPTz را از دست خواهید داد.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>XAUz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XAUzs from being stolen by malware infecting your computer.</source>
+        <source>XPTz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XPTzs from being stolen by malware infecting your computer.</source>
         <translation>Biticon هم اکنون بسته می‌شود تا فرایند رمزگذاری را تمام کند. به خاطر داشته باشید که رمزگذاری کیف پولتان نمی‌تواند به طور کامل بیتیکون‌های شما را در برابر دزدیده شدن توسط بدافزارهایی که رایانه شما را آلوده می‌کنند، محافظت نماید.</translation>
     </message>
     <message>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about XAUz</source>
+        <source>Show information about XPTz</source>
         <translation>نمایش اطلاعات در مورد بیتکویین</translation>
     </message>
     <message>
@@ -415,13 +415,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a XAUz address</source>
+        <source>Send coins to a XPTz address</source>
         <translation>سکه ها را به آدرس bitocin ارسال کن</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for XAUz</source>
-        <translation>انتخابهای پیکربندی را برای XAUz اصلاح کن</translation>
+        <source>Modify configuration options for XPTz</source>
+        <translation>انتخابهای پیکربندی را برای XPTz اصلاح کن</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -451,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>XAUz</source>
+        <source>XPTz</source>
         <translation>یت کویین </translation>
     </message>
     <message>
@@ -476,8 +476,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About XAUz</source>
-        <translation>در مورد XAUz</translation>
+        <source>&amp;About XPTz</source>
+        <translation>در مورد XPTz</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -496,12 +496,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your XAUz addresses to prove you own them</source>
+        <source>Sign messages with your XPTz addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified XAUz addresses</source>
+        <source>Verify messages to ensure they were signed with specified XPTz addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>XAUz client</source>
-        <translation>مشتری XAUz</translation>
+        <source>XPTz client</source>
+        <translation>مشتری XPTz</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to XAUz network</source>
+        <source>%n active connection(s) to XPTz network</source>
         <translation><numerusform>در صد ارتباطات فعال بیتکویین با شبکه %n</numerusform></translation>
     </message>
     <message>
@@ -651,7 +651,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid XAUz address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid XPTz address or malformed URI parameters.</source>
         <translation>URI قابل تحلیل نیست. این خطا ممکن است به دلیل ادرس LITECOIN اشتباه یا پارامترهای اشتباه URI رخ داده باشد</translation>
     </message>
     <message>
@@ -666,8 +666,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. XAUz can no longer continue safely and will quit.</source>
-        <translation>خطا روی داده است. XAUz نمی تواند بدون مشکل ادامه دهد و باید بسته شود</translation>
+        <source>A fatal error occurred. XPTz can no longer continue safely and will quit.</source>
+        <translation>خطا روی داده است. XPTz نمی تواند بدون مشکل ادامه دهد و باید بسته شود</translation>
     </message>
 </context>
 <context>
@@ -732,8 +732,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid XAUz address.</source>
-        <translation>آدرس وارد شده %1 یک ادرس صحیح XAUz نیست</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XPTz address.</source>
+        <translation>آدرس وارد شده %1 یک ادرس صحیح XPTz نیست</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -751,8 +751,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>XAUz-Qt</source>
-        <translation>XAUz-Qt</translation>
+        <source>XPTz-Qt</source>
+        <translation>XPTz-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -814,13 +814,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start XAUz after logging in to the system.</source>
-        <translation>در زمان ورود به سیستم به صورت خودکار XAUz را اجرا کن</translation>
+        <source>Automatically start XPTz after logging in to the system.</source>
+        <translation>در زمان ورود به سیستم به صورت خودکار XPTz را اجرا کن</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start XAUz on system login</source>
-        <translation>اجرای XAUz در زمان ورود به سیستم</translation>
+        <source>&amp;Start XPTz on system login</source>
+        <translation>اجرای XPTz در زمان ورود به سیستم</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -839,7 +839,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the XAUz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the XPTz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>اتوماتیک باز کردن بندر بیتکویین در روتر . این فقط در مواردی می باشد که روتر با کمک یو پ ن پ کار می کند</translation>
     </message>
     <message>
@@ -849,7 +849,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the XAUz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the XPTz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>اتصال به شبکه LITECOIN از طریق پراکسی ساکس (برای مثال وقتی از طریق نرم افزار TOR متصل می شوید)</translation>
     </message>
     <message>
@@ -924,7 +924,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting XAUz.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting XPTz.</source>
         <translation>زبان میانجی کاربر می تواند در اینجا تنظیم شود. این تنظیمات بعد از شروع دوباره RESTART در LITECOIN اجرایی خواهند بود.</translation>
     </message>
     <message>
@@ -939,7 +939,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show XAUz addresses in the transaction list or not.</source>
+        <source>Whether to show XPTz addresses in the transaction list or not.</source>
         <translation>تا آدرسهای bITCOIN در فهرست تراکنش نمایش داده شوند یا نشوند.</translation>
     </message>
     <message>
@@ -991,8 +991,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting XAUz.</source>
-        <translation>این تنظیمات پس از اجرای دوباره XAUz اعمال می شوند</translation>
+        <source>This setting will take effect after restarting XPTz.</source>
+        <translation>این تنظیمات پس از اجرای دوباره XPTz اعمال می شوند</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XAUz network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده روزآمد نیستند.wallet  شما به صورت خودکار با شبکه XAUz بعد از برقراری اتصال روزآمد می شود اما این فرایند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XPTz network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش داده شده روزآمد نیستند.wallet  شما به صورت خودکار با شبکه XPTz بعد از برقراری اتصال روزآمد می شود اما این فرایند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1064,7 +1064,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start XAUz: click-to-pay handler</source>
+        <source>Cannot start XPTz: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1214,8 +1214,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the XAUz-Qt help message to get a list with possible XAUz command-line options.</source>
-        <translation>پیام راهنمای XAUz-Qt  را برای گرفتن فهرست گزینه های command-line نشان بده</translation>
+        <source>Show the XPTz-Qt help message to get a list with possible XPTz command-line options.</source>
+        <translation>پیام راهنمای XPTz-Qt  را برای گرفتن فهرست گزینه های command-line نشان بده</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1234,13 +1234,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>XAUz - Debug window</source>
-        <translation>صفحه اشکال زدایی XAUz </translation>
+        <source>XPTz - Debug window</source>
+        <translation>صفحه اشکال زدایی XPTz </translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>XAUz Core</source>
-        <translation> هسته XAUz </translation>
+        <source>XPTz Core</source>
+        <translation> هسته XPTz </translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1249,8 +1249,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the XAUz debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>فایلِ لاگِ اشکال زدایی XAUz  را از دایرکتوری جاری داده ها باز کنید. این عملیات ممکن است برای فایلهای لاگِ حجیم طولانی شود.</translation>
+        <source>Open the XPTz debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>فایلِ لاگِ اشکال زدایی XPTz  را از دایرکتوری جاری داده ها باز کنید. این عملیات ممکن است برای فایلهای لاگِ حجیم طولانی شود.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1259,8 +1259,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the XAUz RPC console.</source>
-        <translation>به کنسول XAUz RPC خوش آمدید</translation>
+        <source>Welcome to the XPTz RPC console.</source>
+        <translation>به کنسول XPTz RPC خوش آمدید</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1443,7 +1443,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a XAUz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a XPTz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>آدرس بیتکویین وارد کنید  (bijvoorbeeld: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1508,7 +1508,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this XAUz address</source>
+        <source>Sign the message to prove you own this XPTz address</source>
         <translation>پیام را برای اثبات آدرس LITECOIN خود امضا کنید</translation>
     </message>
     <message>
@@ -1544,7 +1544,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified XAUz address</source>
+        <source>Verify the message to ensure it was signed with the specified XPTz address</source>
         <translation>پیام را برای اطمنان از ورود به سیستم با آدرس LITECOIN مشخص خود،تایید کنید</translation>
     </message>
     <message>
@@ -1560,7 +1560,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a XAUz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a XPTz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>آدرس بیتکویین وارد کنید  (bijvoorbeeld: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1570,7 +1570,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter XAUz signature</source>
+        <source>Enter XPTz signature</source>
         <translation>امضای BITOCOIN خود را وارد کنید</translation>
     </message>
     <message>
@@ -1644,7 +1644,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The XAUz developers</source>
+        <source>The XPTz developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,7 +2185,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>XAUz version</source>
+        <source>XPTz version</source>
         <translation>سخه بیتکویین</translation>
     </message>
     <message>
@@ -2195,7 +2195,7 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or XAUzd</source>
+        <source>Send command to -server or XPTzd</source>
         <translation>ارسال فرمان به سرور یا باتکویین</translation>
     </message>
     <message>
@@ -2215,13 +2215,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: XAUz.conf)</source>
-        <translation>(: XAUz.confپیش فرض: )فایل تنظیمی خاص </translation>
+        <source>Specify configuration file (default: XPTz.conf)</source>
+        <translation>(: XPTz.confپیش فرض: )فایل تنظیمی خاص </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: XAUzd.pid)</source>
-        <translation>(XAUzd.pidپیش فرض : ) فایل پید خاص</translation>
+        <source>Specify pid file (default: XPTzd.pid)</source>
+        <translation>(XPTzd.pidپیش فرض : ) فایل پید خاص</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2298,13 +2298,13 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=XAUzrpc
+rpcuser=XPTzrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XPTz Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. XAUz is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. XPTz is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XAUz will not work properly.</source>
-        <translation>هشدار: لطفا زمان و تاریخ رایانه خود را تصحیح نمایید! اگر ساعت رایانه شما اشتباه باشد XAUz ممکن است صحیح کار نکند</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XPTz will not work properly.</source>
+        <translation>هشدار: لطفا زمان و تاریخ رایانه خود را تصحیح نمایید! اگر ساعت رایانه شما اشتباه باشد XPTz ممکن است صحیح کار نکند</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the XAUz Wiki for SSL setup instructions)</source>
-        <translation>گزینه ssl (به ویکیXAUz برای راهنمای راه اندازی ssl مراجعه شود)</translation>
+        <source>SSL options: (see the XPTz Wiki for SSL setup instructions)</source>
+        <translation>گزینه ssl (به ویکیXPTz برای راهنمای راه اندازی ssl مراجعه شود)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,12 +2805,12 @@ for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of XAUz</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of XPTz</source>
         <translation>خطا در بارگیری wallet.dat: کیف پول به ویرایش جدیدتری از Biticon نیاز دارد</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart XAUz to complete</source>
+        <source>Wallet needed to be rewritten: restart XPTz to complete</source>
         <translation>سلام</translation>
     </message>
     <message>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. XAUz is probably already running.</source>
-        <translation>اتصال به %s از این رایانه امکان پذیر نیست. XAUz احتمالا در حال اجراست.</translation>
+        <source>Unable to bind to %s on this computer. XPTz is probably already running.</source>
+        <translation>اتصال به %s از این رایانه امکان پذیر نیست. XPTz احتمالا در حال اجراست.</translation>
     </message>
     <message>
         <location line="+64"/>

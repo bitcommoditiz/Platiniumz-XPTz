@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = XAUz-qt
-macx:TARGET = "XAUz-Qt"
+TARGET = XPTz-qt
+macx:TARGET = "XPTz-Qt"
 VERSION = 0.8.5.1
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
@@ -311,7 +311,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = XAUz-qt_test
+TARGET = XPTz-qt_test
 DEFINES += BITCOIN_QT_TEST
   macx: CONFIG -= app_bundle
 }

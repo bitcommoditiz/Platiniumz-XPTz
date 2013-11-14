@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About XAUz</source>
-        <translation>XAUz hakkında</translation>
+        <source>About XPTz</source>
+        <translation>XPTz hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;XAUz&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;XAUz&lt;/b&gt; sürüm</translation>
+        <source>&lt;b&gt;XPTz&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XPTz&lt;/b&gt; sürüm</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The XAUz developers</source>
-        <translation>XAUz geliştiricileri</translation>
+        <source>The XPTz developers</source>
+        <translation>XPTz geliştiricileri</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your XAUz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için XAUz adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
+        <source>These are your XPTz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için XPTz adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a XAUz address</source>
-        <translation>Bir XAUz adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
+        <source>Sign a message to prove you own a XPTz address</source>
+        <translation>Bir XPTz adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified XAUz address</source>
-        <translation>Belirtilen XAUz adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
+        <source>Verify a message to ensure it was signed with a specified XPTz address</source>
+        <translation>Belirtilen XPTz adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your XAUz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme yapmak için kullanacağınız XAUz adreslerinizdir. XAUz yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
+        <source>These are your XPTz addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme yapmak için kullanacağınız XPTz adreslerinizdir. XPTz yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>XAUz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XAUzs from being stolen by malware infecting your computer.</source>
-        <translation>Şifreleme işlemini tamamlamak için XAUz şimdi kapanacaktır. Cüzdanınızı şifrelemenin, XAUzlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
+        <source>XPTz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XPTzs from being stolen by malware infecting your computer.</source>
+        <translation>Şifreleme işlemini tamamlamak için XPTz şimdi kapanacaktır. Cüzdanınızı şifrelemenin, XPTzlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about XAUz</source>
-        <translation>XAUz hakkında bilgi göster</translation>
+        <source>Show information about XPTz</source>
+        <translation>XPTz hakkında bilgi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a XAUz address</source>
-        <translation>Bir XAUz adresine XAUz yolla</translation>
+        <source>Send coins to a XPTz address</source>
+        <translation>Bir XPTz adresine XPTz yolla</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for XAUz</source>
-        <translation>XAUz seçeneklerinin yapılandırmasını değiştir</translation>
+        <source>Modify configuration options for XPTz</source>
+        <translation>XPTz seçeneklerinin yapılandırmasını değiştir</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>XAUz</source>
-        <translation>XAUz</translation>
+        <source>XPTz</source>
+        <translation>XPTz</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About XAUz</source>
-        <translation>XAUz &amp;Hakkında</translation>
+        <source>&amp;About XPTz</source>
+        <translation>XPTz &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your XAUz addresses to prove you own them</source>
-        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için XAUz adresleri ile imzala</translation>
+        <source>Sign messages with your XPTz addresses to prove you own them</source>
+        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için XPTz adresleri ile imzala</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified XAUz addresses</source>
-        <translation>Belirtilen XAUz adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified XPTz addresses</source>
+        <translation>Belirtilen XPTz adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>XAUz client</source>
-        <translation>XAUz istemcisi</translation>
+        <source>XPTz client</source>
+        <translation>XPTz istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to XAUz network</source>
-        <translation><numerusform>XAUz şebekesine %n faal bağlantı</numerusform><numerusform>XAUz şebekesine %n faal bağlantı</numerusform></translation>
+        <source>%n active connection(s) to XPTz network</source>
+        <translation><numerusform>XPTz şebekesine %n faal bağlantı</numerusform><numerusform>XPTz şebekesine %n faal bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid XAUz address or malformed URI parameters.</source>
-        <translation>URI okunamadı! Sebebi geçersiz bir XAUz adresi veya hatalı URI parametreleri olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XPTz address or malformed URI parameters.</source>
+        <translation>URI okunamadı! Sebebi geçersiz bir XPTz adresi veya hatalı URI parametreleri olabilir.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. XAUz can no longer continue safely and will quit.</source>
-        <translation>Ciddi bir hata oluştu. XAUz artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
+        <source>A fatal error occurred. XPTz can no longer continue safely and will quit.</source>
+        <translation>Ciddi bir hata oluştu. XPTz artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid XAUz address.</source>
-        <translation>Girilen &quot;%1&quot; adresi geçerli bir XAUz adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XPTz address.</source>
+        <translation>Girilen &quot;%1&quot; adresi geçerli bir XPTz adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>XAUz-Qt</source>
-        <translation>XAUz-Qt</translation>
+        <source>XPTz-Qt</source>
+        <translation>XPTz-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start XAUz after logging in to the system.</source>
-        <translation>Sistemde oturum açıldığında XAUz&apos;i otomatik olarak başlat.</translation>
+        <source>Automatically start XPTz after logging in to the system.</source>
+        <translation>Sistemde oturum açıldığında XPTz&apos;i otomatik olarak başlat.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start XAUz on system login</source>
-        <translation>XAUz&apos;i sistem oturumuyla &amp;başlat</translation>
+        <source>&amp;Start XPTz on system login</source>
+        <translation>XPTz&apos;i sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the XAUz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide XAUz istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the XPTz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide XPTz istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the XAUz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>XAUz şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
+        <source>Connect to the XPTz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>XPTz şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting XAUz.</source>
-        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar XAUz tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XPTz.</source>
+        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar XPTz tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -940,12 +940,12 @@ Adres: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>XAUz gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>XPTz gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show XAUz addresses in the transaction list or not.</source>
-        <translation>Muamele listesinde XAUz adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
+        <source>Whether to show XPTz addresses in the transaction list or not.</source>
+        <translation>Muamele listesinde XPTz adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting XAUz.</source>
-        <translation>Bu ayarlar XAUz tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>This setting will take effect after restarting XPTz.</source>
+        <translation>Bu ayarlar XPTz tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,7 +1015,7 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XAUz network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XPTz network after a connection is established, but this process has not completed yet.</source>
         <translation>Görüntülenen veriler zaman aşımına uğramış olabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak şebeke ile eşleşir ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start XAUz: click-to-pay handler</source>
-        <translation>XAUz başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start XPTz: click-to-pay handler</source>
+        <translation>XPTz başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the XAUz-Qt help message to get a list with possible XAUz command-line options.</source>
-        <translation>Mevcut XAUz komut satırı seçeneklerinin listesini içeren XAUz-Qt yardımını göster.</translation>
+        <source>Show the XPTz-Qt help message to get a list with possible XPTz command-line options.</source>
+        <translation>Mevcut XPTz komut satırı seçeneklerinin listesini içeren XPTz-Qt yardımını göster.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>XAUz - Debug window</source>
-        <translation>XAUz - Hata ayıklama penceresi</translation>
+        <source>XPTz - Debug window</source>
+        <translation>XPTz - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>XAUz Core</source>
-        <translation>XAUz Çekirdeği</translation>
+        <source>XPTz Core</source>
+        <translation>XPTz Çekirdeği</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the XAUz debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Güncel veri klasöründen XAUz hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
+        <source>Open the XPTz debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Güncel veri klasöründen XPTz hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the XAUz RPC console.</source>
-        <translation>XAUz RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the XPTz RPC console.</source>
+        <translation>XPTz RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Adres: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>XAUz yolla</translation>
+        <translation>XPTz yolla</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a XAUz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>XAUz adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XPTz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>XPTz adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this XAUz address</source>
-        <translation>Bu XAUz adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
+        <source>Sign the message to prove you own this XPTz address</source>
+        <translation>Bu XPTz adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified XAUz address</source>
-        <translation>Belirtilen XAUz adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified XPTz address</source>
+        <translation>Belirtilen XPTz adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a XAUz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>XAUz adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XPTz address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>XPTz adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter XAUz signature</source>
-        <translation>XAUz imzası gir</translation>
+        <source>Enter XPTz signature</source>
+        <translation>XPTz imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The XAUz developers</source>
-        <translation>XAUz geliştiricileri</translation>
+        <source>The XPTz developers</source>
+        <translation>XPTz geliştiricileri</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1784,7 +1784,7 @@ Adres: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan XAUz&apos;lerin harcanabilmelerinden önce 120 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan XPTz&apos;lerin harcanabilmelerinden önce 120 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2137,7 +2137,7 @@ Adres: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>XAUz yolla</translation>
+        <translation>XPTz yolla</translation>
     </message>
 </context>
 <context>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>XAUz version</source>
-        <translation>XAUz sürümü</translation>
+        <source>XPTz version</source>
+        <translation>XPTz sürümü</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or XAUzd</source>
-        <translation>-server ya da XAUzd&apos;ye komut gönder</translation>
+        <source>Send command to -server or XPTzd</source>
+        <translation>-server ya da XPTzd&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: XAUz.conf)</source>
-        <translation>Yapılandırma dosyası belirt (varsayılan: XAUz.conf)</translation>
+        <source>Specify configuration file (default: XPTz.conf)</source>
+        <translation>Yapılandırma dosyası belirt (varsayılan: XPTz.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: XAUzd.pid)</source>
-        <translation>Pid dosyası belirt (varsayılan: XAUzd.pid)</translation>
+        <source>Specify pid file (default: XPTzd.pid)</source>
+        <translation>Pid dosyası belirt (varsayılan: XPTzd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=XAUzrpc
+rpcuser=XPTzrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XPTz Alert&quot; admin@foo.com
 </source>
         <translation>%s, şu yapılandırma dosyasında rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=XAUzrpc
+rpcuser=XPTzrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.
 Dosya mevcut değilse, sadece sahibi için okumayla sınırlı izin ile oluşturunuz.
 Sorunlar hakkında bildiri almak için alertnotify unsurunu ayarlamanız tavsiye edilir;
-mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
+mesela: alertnotify=echo %%s | mail -s &quot;XPTz Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. XAUz is probably already running.</source>
-        <translation>%s veri dizininde kilit elde edilemedi. XAUz muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. XPTz is probably already running.</source>
+        <translation>%s veri dizininde kilit elde edilemedi. XPTz muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2363,7 +2363,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     <message>
         <location line="+6"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - XAUz oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - XPTz oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2377,8 +2377,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XAUz will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse XAUz gerektiği gibi çalışamaz.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XPTz will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse XPTz gerektiği gibi çalışamaz.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2518,7 +2518,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation>XAUz oluştur (varsayılan: 0)</translation>
+        <translation>XPTz oluştur (varsayılan: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2627,8 +2627,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the XAUz Wiki for SSL setup instructions)</source>
-        <translation> SSL seçenekleri: (SSL kurulum bilgisi için XAUz vikisine bakınız)</translation>
+        <source>SSL options: (see the XPTz Wiki for SSL setup instructions)</source>
+        <translation> SSL seçenekleri: (SSL kurulum bilgisi için XPTz vikisine bakınız)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of XAUz</source>
-        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir XAUz sürümüne ihtiyacı var</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XPTz</source>
+        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir XPTz sürümüne ihtiyacı var</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart XAUz to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için XAUz&apos;i yeniden başlatınız</translation>
+        <source>Wallet needed to be rewritten: restart XPTz to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için XPTz&apos;i yeniden başlatınız</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;XAUz Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. XAUz is probably already running.</source>
-        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. XAUz muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. XPTz is probably already running.</source>
+        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. XPTz muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+64"/>

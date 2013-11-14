@@ -21,13 +21,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "BitCommoditiz"
-            VALUE "FileDescription",    "XAUz-Qt (OSS GUI client for XAUz)"
+            VALUE "FileDescription",    "XPTz-Qt (OSS GUI client for XPTz)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "XAUz-qt"
+            VALUE "InternalName",       "XPTz-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "XAUz-qt.exe"
-            VALUE "ProductName",        "XAUz-Qt"
+            VALUE "OriginalFilename",   "XPTz-qt.exe"
+            VALUE "ProductName",        "XPTz-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
